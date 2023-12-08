@@ -1,0 +1,6 @@
+Admin/RicardoH/26012005/Ricardo Hansel/081272913615/
+Customer/Michael01/12345678/Michaell ang/081273189331/30.0
+Vendor/BrandonD1/12345678/Brandon/093193201985/Brandon food/L3-02/0
+Vendor/VallA2/12345678/Valleries/081352910461/Vallerie's Cafetaria/L3-08/6
+Runner/Ara0101/12345678/Azalia/084192839462/26 Jan 2015/Male/Jalan Kemanggisan/0.0
+Runner/Ara0104/12345678/Azalia/084192839467/26 Jan 2015/Female/Jalan Kemanggisan/0.0
